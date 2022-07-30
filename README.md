@@ -1,5 +1,5 @@
 # Simple-Linear-Regression
-Practice project on Imple Linear Regression. The dataset used for this project is downloaded from Kaggle (https://www.kaggle.com/datasets/rohankayan/years-of-experience-and-salary-dataset)
+Practice project on Simple Linear Regression. The dataset used for this project is downloaded from Kaggle (https://www.kaggle.com/datasets/rohankayan/years-of-experience-and-salary-dataset)
 
 # Problem Statement
 In this project, I used a dataset f two variables, salary (in rupees) and years of experience. The goal of this project is to:
